@@ -1,6 +1,6 @@
 # ONU Expert
 
-This project presents a simple expert system that gives recommendations on what specialty an enrollee of Odessa I. I. Mechnikov National University can apply to based on their scores for NMT (National Multi-subject Test) and personal interests. Implemented with SWI-Prolog 🦉.
+This project presents a simple expert system that gives recommendations on what specialty an enrollee of Odessa I. I. Mechnikov National University can apply to based on their scores for NMT (National Multi-Subject Test) and personal interests. Implemented with SWI-Prolog 🦉.
 
 | File         | Description                                                                               |
 | ------------ | ----------------------------------------------------------------------------------------- |
